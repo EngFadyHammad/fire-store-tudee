@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784710564898",
+    "project_id": "fire-store-tudee",
+    "storage_bucket": "fire-store-tudee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784710564898:android:e95819edbdcb8207fc1e7b",
+        "android_client_info": {
+          "package_name": "com.example.pro_task5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5sJZficaWdcUjNr5imsF6LB1W3-pt7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
